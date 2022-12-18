@@ -1,4 +1,6 @@
 [deps]
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+LegacyStrings = "1b4a561d-cfcb-5daf-8433-43fcf8b4bea3"
 PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
 
 [compat]
