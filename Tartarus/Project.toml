@@ -1,0 +1,4 @@
+name = "Tartarus"
+uuid = "aea20655-4736-4bca-8b23-96d8b46a5e98"
+authors = ["Sreehari Pulickamadhom Sreedhar <orectique@gmail.com>"]
+version = "0.1.0"
